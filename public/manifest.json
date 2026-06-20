@@ -1,0 +1,17 @@
+{
+  "name": "Expense Tracker",
+  "short_name": "Expense",
+  "description": "Smart Expense Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
